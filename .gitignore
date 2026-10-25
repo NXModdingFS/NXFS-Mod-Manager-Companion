@@ -1,0 +1,4 @@
+# Videos are large and belong to whoever made them, not in the repo.
+*.ogv
+*.mp4
+*.zip

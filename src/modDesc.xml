@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="94">
+    <author>NX Modding</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>NXFS Mod Manager Companion</en>
+    </title>
+    <description>
+        <en><![CDATA[Plays your own video on the map loading screen. Installed and removed by NXFS Mod Manager; changing it by hand is not needed.]]></en>
+    </description>
+    <multiplayer supported="true"/>
+    <iconFilename>icon.dds</iconFilename>
+
+    <extraSourceFiles>
+        <sourceFile filename="NXFSCompanion.lua" />
+    </extraSourceFiles>
+</modDesc>
